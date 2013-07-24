@@ -1,3 +1,4 @@
+
 INSTALLED_APPS = [
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -6,6 +7,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.admin',
+    'djangoratings',
     'django.contrib.webdesign',
     'django.contrib.formtools',
     'django.contrib.humanize',
@@ -34,7 +36,7 @@ INSTALLED_APPS += [
     'ajax_select',
     'bootstrapform_too',
     'modelhelpers',
-    'djangoratings',
+    'djangoratings'
 ]
 
 INSTALLED_APPS_MORE = []
